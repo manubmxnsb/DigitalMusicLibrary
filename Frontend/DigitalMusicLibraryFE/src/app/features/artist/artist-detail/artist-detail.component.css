@@ -1,0 +1,111 @@
+.page-body {
+  background-color: #212121;
+}
+
+.ArtistHeader {
+  position: relative;
+  display: flex;
+  width: 80%;
+  margin-left: 8.5vw;
+  margin-top: 10vh;
+  height: 32vh;
+  background-image: linear-gradient(to bottom right, #121212, #212121);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+.artist__logo {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  margin-left: 2vw;
+  margin-top: 5vh;
+}
+
+.ArtistDetails {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2vh;
+  margin-left: 2vw;
+}
+
+.SearchContainer {
+  margin-left: 22vw;
+  margin-top: 14vh;
+}
+
+.SearchContainer input[type=text] {
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.SearchContainer input[type=text]:focus {
+  outline: none;
+  background-color: #535353;
+}
+
+.AlbumsText {
+  color: #ffffff;
+  margin-top: 5vh;
+  margin-left: 0.3vw;
+  font-size: 20px;
+  font-family: Yaldevi, sans-serif;
+}
+
+.ArtistName {
+  color: #ffffff;
+  margin-top: -4vh;
+  font-size: 56px;
+  font-family: Yaldevi, sans-serif;
+  font-weight: 700 !important;
+}
+
+.AlbumsCard {
+  position: relative;
+  width: 80%;
+  margin-left: 8.5vw;
+  margin-bottom: 5vh;
+  background-image: linear-gradient(to top left, #121212, #212121);
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.AlbumList {
+  display: flex;
+  flex-direction: column;
+}
+
+.AlbumTitle {
+  color: #ffffff;
+  margin-left: 2vw;
+  margin-top: 5vh;
+  font-size: 36px;
+  font-family: Yaldevi, sans-serif;
+  font-weight: 700 !important;
+}
+
+.AlbumDescription {
+  color: #ffffff;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  font-size: 12px;
+  font-family: Yaldevi, sans-serif;
+}
+
+.SongList {
+  list-style-type: none;
+  color: #ffffff;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-top: 2vw;
+}
+
+.SongItem:hover {
+  color: #535353;
+}/*# sourceMappingURL=artist-detail.component.css.map */

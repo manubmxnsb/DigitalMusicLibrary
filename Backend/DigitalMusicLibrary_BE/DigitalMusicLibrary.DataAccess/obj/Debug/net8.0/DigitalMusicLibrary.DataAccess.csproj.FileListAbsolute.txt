@@ -1,0 +1,15 @@
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\bin\Debug\net8.0\DigitalMusicLibrary.DataAccess.deps.json
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\bin\Debug\net8.0\DigitalMusicLibrary.DataAccess.runtimeconfig.json
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\bin\Debug\net8.0\DigitalMusicLibrary.DataAccess.dll
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\bin\Debug\net8.0\DigitalMusicLibrary.DataAccess.pdb
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\obj\Debug\net8.0\DigitalMusicLibrary.DataAccess.csproj.AssemblyReference.cache
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\obj\Debug\net8.0\DigitalMusicLibrary.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\obj\Debug\net8.0\DigitalMusicLibrary.DataAccess.AssemblyInfoInputs.cache
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\obj\Debug\net8.0\DigitalMusicLibrary.DataAccess.AssemblyInfo.cs
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\obj\Debug\net8.0\DigitalMusicLibrary.DataAccess.csproj.CoreCompileInputs.cache
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\obj\Debug\net8.0\DigitalMusicLibrary.DataAccess.sourcelink.json
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\obj\Debug\net8.0\DigitalMusicLibrary.DataAccess.dll
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\obj\Debug\net8.0\refint\DigitalMusicLibrary.DataAccess.dll
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\obj\Debug\net8.0\DigitalMusicLibrary.DataAccess.pdb
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\obj\Debug\net8.0\DigitalMusicLibrary.DataAccess.genruntimeconfig.cache
+D:\IT\DigitalMusicLibrary\Backend\DigitalMusicLibrary_BE\DigitalMusicLibrary.DataAccess\obj\Debug\net8.0\ref\DigitalMusicLibrary.DataAccess.dll

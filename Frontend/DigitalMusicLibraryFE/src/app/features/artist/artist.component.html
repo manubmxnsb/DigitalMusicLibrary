@@ -1,0 +1,15 @@
+<div class="page-body" *ngIf="$Artists | async as Artists">
+    <div class="ArtistHeader">
+        <div class="Filler"></div>
+      <h2 class="title">All Artists</h2>
+    <div class="ArtistList">
+        <div *ngFor="let artist of ($Artists | async)" (click)="viewArtistDetail(artist.id)">
+          <div class="ArtistCard">
+            <img src="../../../assets/artist/artist_image.png" alt="artist-logo" class="artist__logo" />
+            <h3 class="ArtistName">{{ artist.name }}</h3>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+  

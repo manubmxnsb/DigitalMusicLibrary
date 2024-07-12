@@ -3,28 +3,164 @@
   "WorkspaceRootPath": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\digitalmusiclibrary.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\digitalmusiclibrary.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\models\\songdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\models\\songdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\models\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\models\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\digitalmusiclibraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\digitalmusiclibraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\models\\artistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\models\\artistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\models\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\models\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\entities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\entities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\profiles\\artistprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\profiles\\artistprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\repositories\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\repositories\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\resources\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\resources\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\profiles\\albumprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\profiles\\albumprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\services\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\services\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\services\\ialbumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\services\\ialbumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\services\\iartistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\services\\iartistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\digitalmusiclibraryapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\digitalmusiclibraryapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\digitalmusiclibraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\digitalmusiclibraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\repositories\\isongrepisitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\repositories\\isongrepisitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\repositories\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\repositories\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\services\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\services\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\digitalmusiclibrary.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\digitalmusiclibrary.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\repositories\\iartistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\repositories\\iartistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\middleware\\exceptionmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\middleware\\exceptionmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary_be\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB85473-3C0C-4948-A80C-437CD6ADFC64}|DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj|solutionrelative:digitalmusiclibrary_be\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\profiles\\songprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\profiles\\songprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\dbcontexts\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\dbcontexts\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\extensions\\jsonalbumextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\extensions\\jsonalbumextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\jsonmodels\\jsonartist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\jsonmodels\\jsonartist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\jsonmodels\\jsonalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\jsonmodels\\jsonalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\extensions\\jsonsongextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\extensions\\jsonsongextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\jsonmodels\\jsonsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\jsonmodels\\jsonsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\dbcontexts\\digitalmusiclibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\dbcontexts\\digitalmusiclibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.business\\digitalmusiclibrary.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C4EAC55-A951-4F2F-B329-C275DAE4708E}|DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj|solutionrelative:digitalmusiclibrary.business\\digitalmusiclibrary.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|d:\\it\\digitalmusiclibrary\\backend\\digitalmusiclibrary_be\\digitalmusiclibrary.dataaccess\\migrations\\20240708214546_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2958BCB-A2E2-43D4-B4FE-52C6EA07EF35}|DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj|solutionrelative:digitalmusiclibrary.dataaccess\\migrations\\20240708214546_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +170,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DigitalMusicLibrary.DataAccess",
-              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj",
-              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj",
-              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj",
-              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-08T09:42:07.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Class1.cs",
-              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Class1.cs",
-              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:40:25.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Class1.cs",
-              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Class1.cs",
-              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Class1.cs",
-              "RelativeToolTip": "DigitalMusicLibrary.Business\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:39:58.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DigitalMusicLibraryAPI",
-              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
-              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
-              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
-              "RelativeToolTip": "DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-08T09:39:05.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DigitalMusicLibraryAPI",
-              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
-              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
-              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
-              "RelativeToolTip": "DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-08T09:38:53.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Program.cs",
-              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\Program.cs",
-              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Program.cs",
-              "RelativeToolTip": "DigitalMusicLibrary_BE\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:38:46.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1337924956:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -152,6 +207,497 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtistsController.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Controllers\\ArtistsController.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\Controllers\\ArtistsController.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Controllers\\ArtistsController.cs",
+              "RelativeToolTip": "DigitalMusicLibrary_BE\\Controllers\\ArtistsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:03:13.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlbumDTO.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Models\\AlbumDTO.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Models\\AlbumDTO.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Models\\AlbumDTO.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\Models\\AlbumDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:50:34.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArtistDTO.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Models\\ArtistDTO.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Models\\ArtistDTO.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Models\\ArtistDTO.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\Models\\ArtistDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:50:41.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Entities\\Album.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Entities\\Album.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Entities\\Album.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Entities\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:12:31.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Entities\\Artist.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Entities\\Artist.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Entities\\Artist.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Entities\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:15:16.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArtistProfile.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Profiles\\ArtistProfile.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Profiles\\ArtistProfile.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Profiles\\ArtistProfile.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\Profiles\\ArtistProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:43:59.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SongDTO.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Models\\SongDTO.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Models\\SongDTO.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Models\\SongDTO.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\Models\\SongDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:50:45.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Entities\\Song.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Entities\\Song.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Entities\\Song.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Entities\\Song.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:49:55.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Models\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Models\\ErrorDetails.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Models\\ErrorDetails.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\Models\\ErrorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:39:27.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArtistRepository.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Repositories\\ArtistRepository.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Repositories\\ArtistRepository.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Repositories\\ArtistRepository.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Repositories\\ArtistRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:43:50.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "data.json",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Resources\\data.json",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\Resources\\data.json",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Resources\\data.json",
+              "RelativeToolTip": "DigitalMusicLibrary_BE\\Resources\\data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKUBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T18:06:18.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\appsettings.Development.json",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\appsettings.Development.json",
+              "RelativeToolTip": "DigitalMusicLibrary_BE\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T19:41:29.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DigitalMusicLibrary_BE\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T10:13:13.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Program.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\Program.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Program.cs",
+              "RelativeToolTip": "DigitalMusicLibrary_BE\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:57:58.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AlbumProfile.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Profiles\\AlbumProfile.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Profiles\\AlbumProfile.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Profiles\\AlbumProfile.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\Profiles\\AlbumProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:40:05.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArtistService.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Services\\ArtistService.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Services\\ArtistService.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Services\\ArtistService.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\Services\\ArtistService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wBUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:50:51.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAlbumService.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Services\\IAlbumService.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Services\\IAlbumService.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Services\\IAlbumService.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\Services\\IAlbumService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:57:19.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IArtistService.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Services\\IArtistService.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Services\\IArtistService.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Services\\IArtistService.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\Services\\IArtistService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:58:21.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISongRepisitory.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Repositories\\ISongRepisitory.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Repositories\\ISongRepisitory.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Repositories\\ISongRepisitory.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Repositories\\ISongRepisitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:09:11.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISongService.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Services\\ISongService.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Services\\ISongService.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Services\\ISongService.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\Services\\ISongService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:59:17.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DigitalMusicLibraryAPI",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
+              "RelativeToolTip": "DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T10:13:01.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DigitalMusicLibraryAPI.csproj",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
+              "RelativeToolTip": "DigitalMusicLibrary_BE\\DigitalMusicLibraryAPI.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T13:10:22.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\appsettings.json",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\appsettings.json",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\appsettings.json",
+              "RelativeToolTip": "DigitalMusicLibrary_BE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T19:00:21.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAlbumRepository.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Repositories\\IAlbumRepository.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Repositories\\IAlbumRepository.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Repositories\\IAlbumRepository.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Repositories\\IAlbumRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:07:00.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DigitalMusicLibrary.DataAccess.csproj",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\DigitalMusicLibrary.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T09:47:17.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IArtistRepository.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Repositories\\IArtistRepository.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Repositories\\IArtistRepository.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Repositories\\IArtistRepository.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Repositories\\IArtistRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:06:10.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExceptionMiddlewareExtension.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Middleware\\ExceptionMiddlewareExtension.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\Middleware\\ExceptionMiddlewareExtension.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Middleware\\ExceptionMiddlewareExtension.cs",
+              "RelativeToolTip": "DigitalMusicLibrary_BE\\Middleware\\ExceptionMiddlewareExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:04:01.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary_BE\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary_BE\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "DigitalMusicLibrary_BE\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:02:41.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:01:55.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:01:22.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SongProfile.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Profiles\\SongProfile.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\Profiles\\SongProfile.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\Profiles\\SongProfile.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\Profiles\\SongProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:44:08.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\DbContexts\\SeedData.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\DbContexts\\SeedData.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\DbContexts\\SeedData.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\DbContexts\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:14:37.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "JsonSongExtension.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Extensions\\JsonSongExtension.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Extensions\\JsonSongExtension.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Extensions\\JsonSongExtension.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Extensions\\JsonSongExtension.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:12:37.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JsonArtist.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\JsonModels\\JsonArtist.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\JsonModels\\JsonArtist.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\JsonModels\\JsonArtist.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\JsonModels\\JsonArtist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:01:06.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JsonAlbumExtension.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Extensions\\JsonAlbumExtension.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Extensions\\JsonAlbumExtension.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Extensions\\JsonAlbumExtension.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Extensions\\JsonAlbumExtension.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:07:20.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JsonSong.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\JsonModels\\JsonSong.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\JsonModels\\JsonSong.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\JsonModels\\JsonSong.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\JsonModels\\JsonSong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:11:57.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "JsonAlbum.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\JsonModels\\JsonAlbum.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\JsonModels\\JsonAlbum.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\JsonModels\\JsonAlbum.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\JsonModels\\JsonAlbum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:08:29.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DigitalMusicLibraryDBContext.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\DbContexts\\DigitalMusicLibraryDBContext.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\DbContexts\\DigitalMusicLibraryDBContext.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\DbContexts\\DigitalMusicLibraryDBContext.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\DbContexts\\DigitalMusicLibraryDBContext.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAkwJ8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:23:29.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DigitalMusicLibrary.Business.csproj",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj",
+              "RelativeToolTip": "DigitalMusicLibrary.Business\\DigitalMusicLibrary.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T08:27:01.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240708214546_Test.cs",
+              "DocumentMoniker": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Migrations\\20240708214546_Test.cs",
+              "RelativeDocumentMoniker": "DigitalMusicLibrary.DataAccess\\Migrations\\20240708214546_Test.cs",
+              "ToolTip": "D:\\IT\\DigitalMusicLibrary\\Backend\\DigitalMusicLibrary_BE\\DigitalMusicLibrary.DataAccess\\Migrations\\20240708214546_Test.cs",
+              "RelativeToolTip": "DigitalMusicLibrary.DataAccess\\Migrations\\20240708214546_Test.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:45:47.071Z"
             }
           ]
         }

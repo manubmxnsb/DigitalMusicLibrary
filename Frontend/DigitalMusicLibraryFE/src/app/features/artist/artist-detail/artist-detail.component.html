@@ -1,0 +1,32 @@
+<div class="page-body" *ngIf="$Artist | async as artist">
+    <div class="ArtistHeader">
+      <img src="../../../assets/artist/artist_image.png" alt="artist-logo" class="artist__logo" />
+      <div class="ArtistDetails">
+        <h2 class="AlbumsText">All Albums</h2>
+        <h1 class="ArtistName">{{ artist.name }}</h1>
+      </div>
+      <div class="SearchContainer">
+        <input type="text" placeholder="Search Albums..." [formControl]="searchTerm">
+      </div>
+    </div>
+    <div class="AlbumsCard">
+      <div class="AlbumList">
+        <div *ngIf="$filteredAlbums | async as filteredAlbums">
+          <div *ngIf="filteredAlbums.length > 0; else noResults">
+            <div *ngFor="let album of filteredAlbums">
+              <h3 class="AlbumTitle">{{ album.title }}</h3>
+              <p class="AlbumDescription">{{ album.description }}</p>
+              <ul class="SongList">
+                <li class="SongItem" *ngFor="let song of album.songs">
+                  {{ song.title }} - {{ song.length }}
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <ng-template #noResults>
+          <div class="no-results">No albums found.</div>
+        </ng-template>
+      </div>
+    </div>
+  </div>
