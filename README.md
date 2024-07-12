@@ -15,7 +15,6 @@ First, we want to download the project <a href="https://nodejs.org/ro">locally</
 </p>
 <p align="left">
 Once that's done, we can go to our prefered folder, open <b>Git Bash</b> and enter <code>git clone [repo-link]</code>.
-<code>8.20.0</code>
 </p>
 <p>Now we need to enter Visual Studio Code. By importing the project, we will have all the NuGet Packages pre-installed in the project so we don't need to worry about them. We just need to create a <b>local database</b> with the same name as the project, in our case its "DigitalMusicLibrary". Once that's done, please open the package explorer terminal. We now need to seed our database using <code>update-database</code> and <code></code>add-migrations</code>.
 </p>
